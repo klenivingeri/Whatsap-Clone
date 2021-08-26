@@ -1,0 +1,1 @@
+windows.app = new WhatsAppController();
